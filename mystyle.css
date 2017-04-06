@@ -1,0 +1,43 @@
+
+.opening-url {
+              background-color: black;
+              color: red;
+              text-decoration: underline;
+              display: flex;
+              align-items: flex-end;
+
+}
+.opening {
+          background-color: black;
+          color:white;
+}
+
+.section {
+          background-color: gray;
+
+}
+
+.candystory {
+
+}
+
+.testimonials {
+
+}
+
+.aside {
+        border-color: black;
+        border-style: inset;
+        display: flex;
+        position: relative;
+        justify-content: flex-end;
+
+}
+
+.photo-candy01 {
+
+}
+
+.photo-candy02 {
+
+}
